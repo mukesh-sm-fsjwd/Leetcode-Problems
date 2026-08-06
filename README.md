@@ -10,19 +10,21 @@ Most of my solutions are written in Java, since that is the language I am most c
 
 The repo is organized by topic/pattern so it is easy to go back and revise a specific area before an interview instead of scrolling through everything.
 
+```
 Leetcode-Problems/
-├── practice/
-│ ├── arrays/
-│ ├── strings/
-│ ├── linked-list/
-│ ├── stack-queue/
-│ ├── recursion-backtracking/
-│ ├── binary-search/
-│ ├── sliding-window/
-│ ├── trees/
-│ ├── graphs/
-│ ├── dynamic-programming/
-│ └── daily-challenge/
+  practice/
+    arrays/
+    strings/
+    linked-list/
+    stack-queue/
+    recursion-backtracking/
+    binary-search/
+    sliding-window/
+    trees/
+    graphs/
+    dynamic-programming/
+    daily-challenge/
+```
 
 (Folder names above are the plan — some are still filling up as I go, this is a work in progress and not a finished archive.)
 
